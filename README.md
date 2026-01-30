@@ -20,10 +20,6 @@ To install the app on your Android device, follow these steps:
 4.  Tap **Install**. 
     *(Note: You may need to allow "Install from Unknown Sources" in your device security settings.)*
 
-## 🛡️ Private Source Code
-
-This repository is used exclusively for hosting official binary releases (APK). The source code for the **Inventory Pro** project, including its AI-integrated tools like **ContentCraft** and **BlueprintDB**, is maintained in a private environment.
-
 ## 👥 Project Team
 
 * **Lead Developer:** Keshav Shiyal
