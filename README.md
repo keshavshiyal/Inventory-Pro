@@ -2,6 +2,18 @@
 
 **Inventory Pro** is a lightweight, offline-first inventory management system designed for small businesses to track products, manage stock levels, and generate professional reports without needing an internet connection.
 
+## 📱 App Overview
+
+| **Stock Management** | **Product List** | **Add New Product** |
+|:---:|:---:|:---:|
+| <img src="Inventory_screenshot%20(5).jpeg" width="250"> | <img src="Inventory_screenshot%20(8).jpeg" width="250"> | <img src="Inventory_screenshot%20(11).jpeg" width="250"> |
+| **Manage Stock & Transactions** | **Searchable Product Catalog** | **Easy Stock Entry** |
+
+| **Business Reports** | **Category Management** | **Settings** |
+|:---:|:---:|:---:|
+| <img src="Inventory_screenshot%20(6).jpeg" width="250"> | <img src="Inventory_screenshot%20(7).jpeg" width="250"> | <img src="Inventory_screenshot%20(1).jpeg" width="250"> |
+| **Asset & Inventory Valuation** | **Customizable Categories** | **Currency & Thresholds** |
+
 ## 🚀 Key Features
 
 * **100% Offline Database:** All your business data is stored locally on your device for maximum privacy and speed.
