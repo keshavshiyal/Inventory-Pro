@@ -32,10 +32,7 @@ To install the app on your Android device, follow these steps:
 4.  Tap **Install**. 
     *(Note: You may need to allow "Install from Unknown Sources" in your device security settings.)*
 
-## 👥 Project Team
-
-* **Lead Developer:** Keshav Shiyal
-* **Trainee Developers:** Ajay Makwana, Rajdip Dodiya, Uvesh Lakhani, and Nirav Dodiya.
+---
 
 ## ⚠️ Disclaimer
 
